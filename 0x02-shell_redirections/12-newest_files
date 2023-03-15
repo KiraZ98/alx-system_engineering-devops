@@ -1,2 +1,2 @@
-#!/bin/bash
-ls -t1 | head -n 10
+#!/bit_files/bash
+ls -t | head
