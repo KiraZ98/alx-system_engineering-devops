@@ -1,2 +1,2 @@
-#!/bit_files/bash
+#!/bin/bash
 ls -t | head
